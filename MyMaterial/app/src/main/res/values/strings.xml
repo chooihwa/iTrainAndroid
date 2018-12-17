@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyMaterial</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="places">
+        <item>Kuala Lumpur</item>
+        <item>Putrajaya</item>
+        <item>Batu Caves</item>
+    </string-array>
+    <string-array name="place_desc">
+        <item>Kuala Lumpur is the capital of Malaysia, also known as KL by local.</item>
+        <item>Putrajaya is a planned city and federal adminisrative in Malaysia.</item>
+        <item>Batu Caves is a limestone hill that has a series of caves and cave temple in Gombak, Selangor</item>
+
+    </string-array>
+    <array name="places_picture">
+        <item>@drawable/kuala_lumpur</item>
+        <item>@drawable/putrajaya</item>
+        <item>@drawable/batu_caves</item>
+
+    </array>
+</resources>

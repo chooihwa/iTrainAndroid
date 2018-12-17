@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">First App</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+</resources>

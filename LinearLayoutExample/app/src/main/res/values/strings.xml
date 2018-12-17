@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LinearLayoutExample</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="cell_number">Cell Number</string>
+    <string name="home_number">Home Number</string>
+    <string name="message">Message</string>
+    <string name="submit">Send</string>
+    <string-array name="profession">
+        <item>I.T</item>
+        <item>Marketing</item>
+        <item>Business and Management</item>
+        <item>Human Resource</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="states">
+        <item>Sabah</item>
+        <item>Sarawak</item>
+        <item>Pahang</item>
+        <item>Selangor</item>
+        <item>Pulau Pinang</item>
+        <item>Terrenganu</item>
+        <item>Perak</item>
+        <item>Kedah</item>
+        <item>Wilayah Persekutuan</item>
+        <item>Johor</item>
+        <item>Negeri Sembilan</item>
+    </string-array>
+</resources>
